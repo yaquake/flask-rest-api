@@ -1,1 +1,1 @@
-# The repository made for study flask-RESTful
+# The repository made for studying flask-RESTful.
